@@ -1,1 +1,2 @@
 # pub-repo-min
+aaa
